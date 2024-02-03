@@ -1,0 +1,7 @@
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\bin\Debug\poo(tarea).exe.config
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\bin\Debug\poo(tarea).exe
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\bin\Debug\poo(tarea).pdb
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\obj\Debug\poo(tarea).csproj.AssemblyReference.cache
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\obj\Debug\poo(tarea).csproj.CoreCompileInputs.cache
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\obj\Debug\poo(tarea).exe
+D:\Gean_Carlos\Escritorio\C#\poo(tarea)\poo(tarea)\obj\Debug\poo(tarea).pdb
